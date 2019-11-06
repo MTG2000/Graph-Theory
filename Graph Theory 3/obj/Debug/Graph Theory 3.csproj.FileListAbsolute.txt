@@ -1,0 +1,10 @@
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\bin\Debug\Graph Theory 3.exe.config
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\bin\Debug\Graph Theory 3.exe
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\bin\Debug\Graph Theory 3.pdb
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\obj\Debug\Graph Theory 3.csprojResolveAssemblyReference.cache
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\obj\Debug\Graph_Theory_3.Properties.Resources.resources
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\obj\Debug\Graph_Theory_3.TerminalForm.resources
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\obj\Debug\Graph Theory 3.csproj.GenerateResource.Cache
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\obj\Debug\Graph Theory 3.exe
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\obj\Debug\Graph Theory 3.pdb
+C:\Users\MTG\Documents\Visual Studio 2012\Projects\Graph Theory 3\Graph Theory 3\obj\Debug\Graph_Theory_3.MainForm.resources
